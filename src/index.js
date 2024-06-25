@@ -1,0 +1,11 @@
+// alert ( "Hi my name is Mabel" ); 
+// let name = prompt( "What is your name?" );
+// alert("Hi " + name +",welcome to our website.");
+// alert("How do you do?");
+// let repponds= prompt("How do you do?");
+// alert("Very well" + ", Thank you.");
+let title = prompt ("What is your title");
+let name = prompt ( "What is your name");
+let product =  prompt( "What is your favorite product?");
+let hometown= prompt ( "What is your hometown?");
+alert(`Hi, ${title}  ${name} who likes ${product}, and comes from ${ hometown} your are welcome to our website.`);
